@@ -1,3 +1,6 @@
+<img width="947" alt="Movies App" src="https://user-images.githubusercontent.com/71218097/185722444-16e55128-ef01-44c5-a42a-79650edebda2.png">
+https://movies-norah.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using [clean-cra Template](https://github.com/JorgePasco1/cra-template-clean-cra).
 
 ## Available Scripts
